@@ -3,7 +3,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sanika;Full+stack+web+developer...)](https://git.io/typing-svg)
  
- <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
+ <p>- <i>Aspiring Data Analyst with a passion for turning data into actionable insights. Proficient in Python, SQL, and data visualization tools like Matplotlib and Plotly. Strong foundation in statistics, data cleaning, and exploratory data analysis (EDA). Experienced in working with large datasets, building models, and automating tasks. Knowledgeable in using cloud platforms like AWS for data processing and reporting. Always eager to learn new techniques and continuously improve problem-solving skills in the data domain.</i></p>
 
  
 
@@ -17,13 +17,13 @@
 
 - 🔭 I’m currently working on DSA
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://gpportfolio1.vercel.app/)** -->
 
-- 📫 How to reach me **sanikaagurjar@gmail.com**
+- 📫 How to reach me **sanikaa771@gmail.com**
 
 
 
